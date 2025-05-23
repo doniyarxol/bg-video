@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    gap: 40px;
+}
+
+.text a {
+    text-decoration: none;
+    color: white;
+    
+   
+}
+
+.text {
+    display: flex;
+    gap: 20px;
+}
+
+video {
+    width: 100%;
+    
+}
+
+
+
+.recente {
+    color:white;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+
+.recente p {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.recente h1 {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+
+
+
+
+.recent button {
+    background:none;
+    color: white;
+    border: white solid 2px;
+    width: 150px;
+    height: 40px;
+}
+.recent {
+    color:white;
+    position: absolute;
+    top: 1550px;
+    left: 100px;
+}
+
+.recent p {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.recent h1 {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+
+.recen button {
+    background:none;
+    color: white;
+    border: white solid 2px;
+    width: 150px;
+    height: 40px;
+}
+.recen {
+    color:white;
+    position: absolute;
+    top: 3240px;
+    left: 100px;
+}
+
+.recen p {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.recen h1 {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+
+.rece button {
+    background:none;
+    color: white;
+    border: white solid 2px;
+    width: 150px;
+    height: 40px;
+}
+.rece {
+    color:white;
+    position: absolute;
+    top: 2400px;
+    left: 100px;
+}
+
+.rece p {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.rece h1 {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+
+button {
+    background:none;
+    color: white;
+    border: white solid 2px;
+    width: 150px;
+    height: 40px;
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    color: white;
+    background-color: black;
+    height: 81px;
+    
+
+}
+
+
+footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+
+body {
+    background-color: black;
+
+}
